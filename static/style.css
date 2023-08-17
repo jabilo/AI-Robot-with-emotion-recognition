@@ -1,0 +1,12 @@
+body{
+    background-color: black;
+}
+.video{
+    position: absolute;
+    z-index: 0;
+}
+.functions{
+    top: 0px;
+    position: relative;
+    z-index: 1;
+}
